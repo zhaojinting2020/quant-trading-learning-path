@@ -27,7 +27,7 @@ cd kb-quant-finance
 
 ## 从这里开始
 
-1. [量化交易之路](content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md) — 学习路径总览
+1. [量化交易之路](content/量化与金融/读书笔记/00-路径/学习笔记%20-%20量化交易之路-Qod0dMaR.md) — 学习路径总览
 2. [主题导航 MOC](content/MOC-quant-finance.md) — 书签与笔记索引
 
 ## 目录
@@ -47,10 +47,10 @@ cd kb-quant-finance
 
 | 模块 | 代表笔记 |
 |------|----------|
-| 入门路径 | [量化交易之路](content/量化与金融/读书笔记/00-路径/量化交易之路-Qod0dMaR.md)、[清华大学《量化交易》](content/量化与金融/读书笔记/10-金融基础/学习笔记%20-%20清华大学《量化交易》-%20QWvgdchv.md) |
-| 金融基础 | [100个金融术语](content/量化与金融/读书笔记/10-金融基础/量化必备100个金融术语-VfHgd6ls.md)、[财务报表分析](content/量化与金融/读书笔记/10-金融基础/财务报表分析-KLqJdUEm.md)、[投资学](content/量化与金融/读书笔记/10-金融基础/学习笔记%20-%E3%80%8A投资学%E3%80%8B-KR6md9jE.md) |
-| 数学基础 | [概率论与统计学](content/量化与金融/读书笔记/20-数学基础/量化必备概率论与统计学基础-OYLZdqQE.md)、[线代](content/量化与金融/读书笔记/20-数学基础/量化必备线代基础-NQrUdhPP.md)、[微积分](content/量化与金融/读书笔记/20-数学基础/量化必备微积分-MSBVdTCH.md) |
-| 编程与实战 | [Python 算法交易](content/量化与金融/读书笔记/30-编程与实战/学习笔记%20-%E3%80%8APython-算法交易%E3%80%8B-Cpv4djLF.md)、[Python for Finance](content/量化与金融/读书笔记/30-编程与实战/学习笔记%20-%20Python-for-Finance-UPNPd8N7.md)、[量化工程师实战录](content/量化与金融/读书笔记/30-编程与实战/量化工程师实战录-D8Y7ds8u.md) |
+| 入门路径 | [量化交易之路](content/量化与金融/读书笔记/00-路径/学习笔记%20-%20量化交易之路-Qod0dMaR.md)、[清华大学《量化交易》](content/量化与金融/读书笔记/10-金融基础/学习笔记%20-%20清华大学《量化交易》-%20QWvgdchv.md) |
+| 金融基础 | [100个金融术语](content/量化与金融/读书笔记/10-金融基础/学习笔记%20-%20量化必备100个金融术语-VfHgd6ls.md)、[财务报表分析](content/量化与金融/读书笔记/10-金融基础/学习笔记%20-%E3%80%8A财务报表分析%E3%80%8B-KLqJdUEm.md)、[投资学](content/量化与金融/读书笔记/10-金融基础/学习笔记%20-%E3%80%8A投资学%E3%80%8B-KR6md9jE.md) |
+| 数学基础 | [概率论与统计学](content/量化与金融/读书笔记/20-数学基础/学习笔记%20-%20量化必备概率论与统计学基础-OYLZdqQE.md)、[线代](content/量化与金融/读书笔记/20-数学基础/学习笔记%20-%20量化必备线代基础-NQrUdhPP.md)、[微积分](content/量化与金融/读书笔记/20-数学基础/学习笔记%20-%20量化必备微积分-MSBVdTCH.md) |
+| 编程与实战 | [Python 算法交易](content/量化与金融/读书笔记/30-编程与实战/学习笔记%20-%E3%80%8APython-算法交易%E3%80%8B-Cpv4djLF.md)、[Python for Finance](content/量化与金融/读书笔记/30-编程与实战/学习笔记%20-%20Python-for-Finance-UPNPd8N7.md)、[量化工程师实战录](content/量化与金融/读书笔记/30-编程与实战/学习笔记%20-%20量化工程师实战录-D8Y7ds8u.md) |
 | 面试 | [Practical Guide](content/量化与金融/读书笔记/40-面试/a-practical-guide-to-quantitative-finance-interviews.md)、[Interview Study Guide](content/量化与金融/读书笔记/40-面试/Quant-Interview-Study-Guide.md) |
 
 ## 更新与同步

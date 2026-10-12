@@ -32,5 +32,5 @@ custom-width: 85
 ## 相关笔记
 
 [[MOC-quant-finance|量化与金融（主题索引）]]
-[[洞悉市场的人量化交易之父吉姆.西蒙斯与文艺复兴公司的故事-by-古格里.祖克曼-(z-lib.org)|洞悉市场的人（中文版）]]
+[[《洞悉市场的人》|洞悉市场的人（中文版）]]
 [[Machine-Trading-Ernest-P.-Chan-(2)|Algorithmic Trading — Ernest P. Chan]]

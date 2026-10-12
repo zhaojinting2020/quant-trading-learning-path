@@ -855,7 +855,7 @@ custom-width: 85
 - [[学习笔记 -《打开量化投资的黑箱》-NJEadk2a|《打开量化投资的黑箱》学习笔记]]
 - [[学习笔记 -《量化交易如何建立自己的算法交易事业》-FUANdgmF|《量化交易：如何建立自己的算法交易事业》学习笔记]]
 - [[学习笔记 - 清华大学《量化交易》- QWvgdchv|清华大学《量化交易》学习笔记]]
-- [[量化交易之路-Qod0dMaR|量化交易之路]]
+- [[学习笔记 - 量化交易之路-Qod0dMaR|量化交易之路]]
 - [[Quant-Wiki-量化百科|Quant Wiki 量化百科]]
 - [[Quantreo-量化交易博客|Quantreo 量化交易博客]]
 - [[QuantsPlaybook-金工研报复现|QuantsPlaybook 金工研报复现]]

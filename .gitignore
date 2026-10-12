@@ -24,3 +24,10 @@ cache/
 
 # Lightning / training artifacts
 **/lightning_logs/
+
+# 天勤 / Oanda 账号，本地配置，勿提交
+**/tqsdk.cfg
+**/oanda.cfg
+
+# 期刊 PDF 本地留存，不入库
+attachments/经济学人/*.pdf

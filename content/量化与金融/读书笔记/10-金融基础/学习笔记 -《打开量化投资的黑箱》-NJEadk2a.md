@@ -779,12 +779,12 @@ MPT 假设投资者是风险厌恶型，只有额外收益补偿才愿承担额�
 ## 相关笔记
 
 [[MOC-quant-finance|量化与金融（主题索引）]]
-[[打开量化投资的黑箱(原书第2版)|打开量化投资的黑箱（原书第 2 版 PDF）]]
+[[《打开量化投资的黑箱》|打开量化投资的黑箱（原书第 2 版 PDF）]]
 [[学习笔记 -《Python-算法交易》-Cpv4djLF|《Python 算法交易》学习笔记]]
 [[学习笔记 -《量化交易如何建立自己的算法交易事业》-FUANdgmF|《量化交易：如何建立自己的算法交易事业》学习笔记]]
 [[学习笔记 - 清华大学《量化交易》- QWvgdchv|清华大学《量化交易》学习笔记]]
-[[量化交易之路-Qod0dMaR|量化交易之路]]
-[[量化工程师实战录-D8Y7ds8u|量化工程师实战录]]
+[[学习笔记 - 量化交易之路-Qod0dMaR|量化交易之路]]
+[[学习笔记 - 量化工程师实战录-D8Y7ds8u|量化工程师实战录]]
 [[LayerNorm-与-BatchNorm|LayerNorm 与 BatchNorm]] — _量化 / 概率 / 统计_
 [[Nasdaq-Data-Link-Account-Profile|Nasdaq Data Link Account Profile]] — _量化 / 概率 / 统计_
 [[Nasdaq-Data-Link-Account-Profile|Nasdaq Data Link Account Profile]] — _量化 / 概率 / 统计_

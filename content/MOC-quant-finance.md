@@ -36,4 +36,4 @@ custom-width: 85
 
 ## 量化与金融/读书笔记
 
-- [Python金融数据分析高级训练营（完结）_哔哩哔哩_bilibili](../量化与金融/读书笔记/30-编程与实战/Python-金融数据分析.md) — [url](https://www.bilibili.com/video/BV1Ut4y1i7wS/?vd_source=c8041efd376e7f34e73272f6ae86b7a5)
+- [Python金融数据分析高级训练营（完结）_哔哩哔哩_bilibili](量化与金融/读书笔记/30-编程与实战/学习笔记%20-%20Python-金融数据分析.md) — [url](https://www.bilibili.com/video/BV1Ut4y1i7wS/?vd_source=c8041efd376e7f34e73272f6ae86b7a5)

@@ -1026,8 +1026,8 @@ far.create_full_tear_sheet(demeaned=False, group_ajust=False, by_group=False, tu
 [[学习笔记 -《量化交易如何建立自己的算法交易事业》-FUANdgmF|《量化交易：如何建立自己的算法交易事业》学习笔记]]
 [[学习笔记 -《Python-算法交易》-Cpv4djLF|《Python 算法交易》学习笔记]]
 [[学习笔记 -《打开量化投资的黑箱》-NJEadk2a|《打开量化投资的黑箱》学习笔记]]
-[[量化交易之路-Qod0dMaR|量化交易之路]]
-[[量化工程师实战录-D8Y7ds8u|量化工程师实战录]]
+[[学习笔记 - 量化交易之路-Qod0dMaR|量化交易之路]]
+[[学习笔记 - 量化工程师实战录-D8Y7ds8u|量化工程师实战录]]
 [[LayerNorm-与-BatchNorm|LayerNorm 与 BatchNorm]] — _量化 / 概率 / 统计_
 [[Nasdaq-Data-Link-Account-Profile|Nasdaq Data Link Account Profile]] — _量化 / 概率 / 统计_
 [[Nasdaq-Data-Link-Account-Profile|Nasdaq Data Link Account Profile]] — _量化 / 概率 / 统计_
