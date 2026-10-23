@@ -5,6 +5,12 @@ quality: raw
 attachments:
   - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/Yves Hilpisch - Python for Algorithmic Trading.pdf
     title: Yves Hilpisch - Python for Algorithmic Trading.pdf
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/The Kelly Criterion in Blackjack Sports Betting, and the Stock Market.pdf
+    title: The Kelly Criterion in Blackjack Sports Betting, and the Stock Market.pdf
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/Betting_with_the_Kelly_Criterion.pdf
+    title: Betting_with_the_Kelly_Criterion.pdf
+  - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Capital_Management_Kelly.ipynb
+    title: Capital_Management_Kelly.ipynb
   - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Reading Financial Data From Different Sources.ipynb
     title: Reading Financial Data From Different Sources.ipynb
   - file: attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Working with Open Data Sources - Quandl.ipynb
@@ -43,6 +49,13 @@ custom-width: 85
 ---
 
 原书 PDF：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/Yves Hilpisch - Python for Algorithmic Trading.pdf|Yves Hilpisch - Python for Algorithmic Trading]]
+
+Kelly 延伸阅读（第 10 章 Capital Management）：
+
+- 前置：[[Kelly准则及在仓位管理中的应用]]
+- 笔记：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Capital_Management_Kelly.ipynb|Capital Management：Kelly 准则]]
+- Thorp：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/The Kelly Criterion in Blackjack Sports Betting, and the Stock Market.pdf|The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market]]
+- Hung：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/Betting_with_the_Kelly_Criterion.pdf|Betting with the Kelly Criterion]]
 
 # Introduction
 
