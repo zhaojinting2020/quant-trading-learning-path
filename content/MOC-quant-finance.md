@@ -4,36 +4,68 @@ custom-width: 85
 
 # 量化与金融
 
-20 bookmarks
+本页是量化与金融内容的入口索引。书签外链见文末；本地笔记按目录列出。
 
-## 策略与教程
+## 策略工具
 
-- Bloomberg Asia — [url](https://www.bloomberg.com/asia)
-- Quant Trading blog - Quantreo's blog — [url](https://www.blog.quantreo.com/#:~:text=The%20quant%20trader%20is%20here%20to%20create%20quant%20trading%20strategies.)
-- TianFengshou/statsmodels-docs-zh — [url](https://github.com/TianFengshou/statsmodels-docs-zh)
-- Yahoo Finance - Stock Market Live, Quotes, Business &... — [url](https://finance.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAA83alHc2G1GVKMy3H-h6dSgVfpAeaEbw8YIUOOegAXeRTVPNYwWnmMLWsgaH9bICIrXBNPJKwwmWrv2JnJVYMKfYmKbqcehTKJ-9W1eMymzgqcOO6lNrzGt0SQ4ajT_J4BxBj6bisH19eVxEU8PwLC1Ly7hz4cExtBUbOtKxkc4)
-- 同花顺iFinD — [url](https://ft.10jqka.com.cn/)
-- 巨潮资讯网 — [url](http://www.cninfo.com.cn/new/fulltextSearch?notautosubmit=&keyWord=%E9%98%85%E6%96%87)
-- 怎么做期货?我教你如何开始期货交易 — [url](https://zhuanlan.zhihu.com/p/134515556)
-- 智能研报分析平台 — [url](https://manymore13.github.io/report/)
-- 深圳证券交易所-股票列表 — [url](https://www.szse.cn/market/product/stock/list/index.html#:~:text=%E8%82%A1%E7%A5%A8%E8%B4%A8%E6%8A%BC%E5%9B%9E%E8%B4%AD%20%E4%BA%A4%E6%98%93%E4%BF%A1)
-- 科创板股票列表 (star) — [url](https://star.sse.com.cn/market/stocklist/#:~:text=%E8%82%A1%E7%A5%A8%E5%88%97%E8%A1%A8%20%E8%82%A1%E7%A5%A8%E5%88%97%E8%A1%A8)
-- 量化交易零基础入门教程 — [url](https://www.joinquant.com/view/community/detail/8ec7aaaa899cf928550f89a104637f22)
+- [[Quant-Wiki-量化百科|Quant Wiki 量化百科]]
+- [[Quantreo-量化交易博客|Quantreo 量化交易博客]]
+- [[QuantsPlaybook-金工研报复现|QuantsPlaybook 金工研报复现]]
+- [[Python-时序预测四类模型|Python 时序预测四类模型]]
+- [[Statsmodels-中文文档|Statsmodels 中文文档]]
+- [[mplfinance-金融-K-线可视化|mplfinance 金融 K 线可视化]]
+- [[LayerNorm-与-BatchNorm|LayerNorm 与 BatchNorm]]
 
-## 量化与金融/数据源
+## 读书笔记
 
-- [Nasdaq Data Link Account Profile](../量化与金融/数据源/Nasdaq-Data-Link-Account-Profile.md) — [url](https://data.nasdaq.com/account/profile)
-- [SEC.gov | Home](../量化与金融/数据源/SEC.gov-Home.md) — [url](https://www.sec.gov/)
-- [来自一位老操盘手的忠告：庄家操作股票的全过程，看醒了很多人 - 知乎](../量化与金融/数据源/庄家操盘阶段解析.md) — [url](https://zhuanlan.zhihu.com/p/92383238)
+### 路径
 
-## 量化与金融/策略工具
+- [[学习笔记 - 量化交易之路-Qod0dMaR|量化交易之路]]
 
-- [Quant Wiki 中文量化百科](../量化与金融/策略工具/Quant-Wiki-量化百科.md) — [url](https://quant-wiki.com/start/quant_trader/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%9B%88%E5%88%A9/)
-- [Time Series Forecasting with Python and Statsmodels...](../量化与金融/策略工具/Python-时序预测四类模型.md) — [url](https://autonomousecon.substack.com/p/learn-these-four-models-first-for)
-- [hugo2046/QuantsPlaybook: 量化研究-券商金工研报复现](../量化与金融/策略工具/QuantsPlaybook-金工研报复现.md) — [url](https://github.com/hugo2046/QuantsPlaybook)
-- [matplotlib/mplfinance](../量化与金融/策略工具/mplfinance-金融-K-线可视化.md) — [url](https://github.com/matplotlib/mplfinance?tab=readme-ov-file#tutorials)
-- [【机器学习】LayerNorm & BatchNorm的作用以及区别_敲代码的quant的博客-C…](../量化与金融/策略工具/LayerNorm-与-BatchNorm.md) — [url](https://blog.csdn.net/FrankieHello/article/details/122656652)
+### 金融基础
 
-## 量化与金融/读书笔记
+- [[学习笔记 - 清华大学《量化交易》- QWvgdchv|清华大学《量化交易》]]
+- [[学习笔记 - 量化必备100个金融术语-VfHgd6ls|量化必备：100个金融术语]]
+- [[学习笔记 -《Econometrics-Methods-and-Applications》-TA54devd|Econometrics: Methods and Applications]]
+- [[学习笔记 -《打开量化投资的黑箱》-NJEadk2a|打开量化投资的黑箱]]
+- [[学习笔记 -《投资学》-KR6md9jE|投资学]]
+- [[学习笔记 -《期权期货和其他衍生品》-SHrgd6vX|期权期货和其他衍生品]]
+- [[学习笔记 -《财务报表分析》-KLqJdUEm|财务报表分析与基础]]
 
-- [Python金融数据分析高级训练营（完结）_哔哩哔哩_bilibili](量化与金融/读书笔记/30-编程与实战/学习笔记%20-%20Python-金融数据分析.md) — [url](https://www.bilibili.com/video/BV1Ut4y1i7wS/?vd_source=c8041efd376e7f34e73272f6ae86b7a5)
+### 数学基础
+
+- [[学习笔记 - 量化必备微积分-MSBVdTCH|量化必备：微积分]]
+- [[学习笔记 - 量化必备概率论与统计学基础-OYLZdqQE|量化必备：概率论与统计学基础]]
+- [[学习笔记 - 量化必备线代基础-NQrUdhPP|量化必备：线代基础]]
+- [[学习笔记 -《时间序列分析》-ZADvdBUL|时间序列分析]]
+
+### 编程与实战
+
+- [[Kelly准则及在仓位管理中的应用|Kelly 准则及其在资金管理中的应用]]
+- [[学习笔记 - Python-for-Finance-UPNPd8N7|Python for Finance]]
+- [[学习笔记 - Python-金融数据分析|Python 金融数据分析]]
+- [[学习笔记 -《Python-算法交易》-Cpv4djLF|Python 算法交易]]
+- [[学习笔记 - 量化工程师实战录-D8Y7ds8u|量化工程师实战录]]
+- [[学习笔记 -《量化交易如何建立自己的算法交易事业》-FUANdgmF|量化交易：如何建立自己的算法交易事业]]
+
+### 经济学人
+
+- [[学习笔记 -《经济学人-China》-2026-10-10|经济学人 China（2026-10-10）]]
+
+### 存档
+
+- [[未学习PDF清单|未学习 PDF 清单]]（仅索引尚未写成笔记的 PDF）
+
+## 外链书签
+
+无对应本地笔记，仅保留链接。
+
+- [Bloomberg Asia](https://www.bloomberg.com/asia)
+- [Yahoo Finance](https://finance.yahoo.com/)
+- [同花顺 iFinD](https://ft.10jqka.com.cn/)
+- [巨潮资讯网](http://www.cninfo.com.cn/new/fulltextSearch?notautosubmit=&keyWord=%E9%98%85%E6%96%87)
+- [深圳证券交易所-股票列表](https://www.szse.cn/market/product/stock/list/index.html)
+- [科创板股票列表](https://star.sse.com.cn/market/stocklist/)
+- [怎么做期货](https://zhuanlan.zhihu.com/p/134515556)
+- [智能研报分析平台](https://manymore13.github.io/report/)
+- [量化交易零基础入门教程](https://www.joinquant.com/view/community/detail/8ec7aaaa899cf928550f89a104637f22)

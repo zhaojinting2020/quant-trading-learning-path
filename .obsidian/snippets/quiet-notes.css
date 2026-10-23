@@ -34,19 +34,24 @@
   --tbl-border: #3a3a38;
 }
 
-/* ---------- 正文排版：只作用在笔记正文区域 ---------- */
+/* ---------- 正文排版：只作用在笔记正文区域 ----------
+ * 正文 16px = Word 小四（12pt，屏幕按 96dpi 换算）。
+ * 仅设 --font-text-size 不够时，再显式写 font-size。
+ */
 .markdown-source-view.mod-cm6,
+.markdown-preview-view,
+.markdown-reading-view,
 .markdown-rendered {
-  --font-text-size: 15px;
+  --font-text-size: 16px;
   --font-text: "PingFang SC", -apple-system, BlinkMacSystemFont,
     "Helvetica Neue", "Microsoft YaHei", sans-serif;
   --line-height-normal: 1.8;
-  --p-spacing: 1.7em;
-  --h1-size: 1.6em;
+  --p-spacing: 1.6em;
+  --h1-size: 1.45em;
   --h1-weight: 700;
-  --h2-size: 1.3em;
+  --h2-size: 1.25em;
   --h2-weight: 650;
-  --h3-size: 1.12em;
+  --h3-size: 1.1em;
   --h3-weight: 600;
   --h4-size: 1.05em;
   --h4-weight: 600;
@@ -54,13 +59,21 @@
   --h5-weight: 600;
   --h6-size: 1em;
   --h6-weight: 600;
-  --heading-spacing: 1.9em;
+  --heading-spacing: 1.7em;
+  font-size: 16px;
+}
+
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-preview-view .markdown-preview-section,
+.markdown-reading-view .markdown-preview-section {
+  font-size: 16px;
 }
 
 /* ---------- 编辑器行距 ---------- */
 .markdown-source-view.mod-cm6 .cm-line {
-  padding-top: 0.28em;
-  padding-bottom: 0.28em;
+  padding-top: 0.24em;
+  padding-bottom: 0.24em;
 }
 
 /* ---------- 中文字距 ---------- */
