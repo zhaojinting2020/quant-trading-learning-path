@@ -41,7 +41,7 @@ custom-width: 85
 
 ### 编程与实战
 
-- [[Kelly准则及在仓位管理中的应用|Kelly 准则及其在资金管理中的应用]]
+- [[学习笔记 - Kelly准则及在仓位管理中的应用|Kelly 准则及其在资金管理中的应用]]
 - [[学习笔记 - Python-for-Finance-UPNPd8N7|Python for Finance]]
 - [[学习笔记 - Python-金融数据分析|Python 金融数据分析]]
 - [[学习笔记 -《Python-算法交易》-Cpv4djLF|Python 算法交易]]

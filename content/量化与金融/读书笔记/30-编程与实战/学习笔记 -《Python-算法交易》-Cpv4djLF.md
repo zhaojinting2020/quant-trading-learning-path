@@ -52,7 +52,7 @@ custom-width: 85
 
 Kelly 延伸阅读（第 10 章 Capital Management）：
 
-- 前置：[[Kelly准则及在仓位管理中的应用]]
+- 前置：[[学习笔记 - Kelly准则及在仓位管理中的应用]]
 - 笔记：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Capital_Management_Kelly.ipynb|Capital Management：Kelly 准则]]
 - Thorp：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/The Kelly Criterion in Blackjack Sports Betting, and the Stock Market.pdf|The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market]]
 - Hung：[[attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/document/Betting_with_the_Kelly_Criterion.pdf|Betting with the Kelly Criterion]]
