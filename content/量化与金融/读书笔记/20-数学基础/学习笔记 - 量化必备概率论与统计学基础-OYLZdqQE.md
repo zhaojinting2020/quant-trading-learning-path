@@ -811,13 +811,15 @@ $$\text{Tail Risk}_+ = P(X > \mu + k\sigma), \quad \text{Tail Risk}_- = P(X < \m
 
 $$P(|X-\mu|>x) \sim x^{-\alpha}, \quad \alpha > 0$$
 
-极值理论（Extreme Value Theory, EVT）
+**极值理论（Extreme Value Theory, EVT）**
 
 对尾部超过阈值 u 的事件，尾部分布可近似表示为：
 
 $$P(X > u + y \mid X > u) \approx \left(1 + \frac{\xi y}{\beta}\right)^{-1/\xi}, \quad y>0$$
 
-其中 ξ 为形状参数，β 为尺度参数。风险分位数指标
+其中 ξ 为形状参数，β 为尺度参数。
+
+**风险分位数指标**
 
 - VaR（Value at Risk）：
 

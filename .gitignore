@@ -32,3 +32,8 @@ cache/
 
 # 期刊 PDF 本地留存，不入库
 attachments/经济学人/*.pdf
+
+# Local experiment backups and runtime artifacts
+**/.backups/
+*.log
+**/algorithm.pkl
