@@ -151,17 +151,12 @@
 
 ## 7. 机器学习与深度学习基础
 
-这一部分按以下材料展开，相关独立笔记与资源入口尚待整理到本仓库：
+这机器学习与深度学习的入门根基，前人之述备矣，好书好文不胜枚举，我便不在此班门弄斧了，仅附上几部自己心仪的经典链接，愿与诸君共同研读。
 
 - 《机器学习》（西瓜书）：教材阅读与学习笔记
 - PyTorch 深度学习实战
 - 深度学习书集
 
-已有的量化结合实验，可作为这部分学习的实践补充：
-
-- [线性回归与市场走势预测](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Using%20Linear%20Regression%20for%20Market%20Movement%20Prediction.ipynb)
-- [使用机器学习预测市场走势](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Using_Machine_Learning_for_Market_Movement_Prediction.ipynb)
-- [深度学习与市场方向预测](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Using_deep_learning_market_prediction.ipynb)：将原书的 Keras 示例改写为 PyTorch Lightning 实践。
 
 ## 8. 附录
 
