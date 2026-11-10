@@ -6,7 +6,7 @@
 
 一份持续更新的量化学习记录，串起 **金融基础 · 数学方法 · 回测实践 · 风险管理**。
 
-[学习路线](#1-量化-road-map) · [量化入门](#2-量化交易入门) · [书籍与实战](#6-量化实战) · [代码入口](#直接看代码)
+[学习路线](#1-量化-road-map) · [量化入门](#2-量化交易入门) · [书籍与实战](#6-量化实战)
 
 </div>
 
@@ -111,7 +111,7 @@
 
 ### 6.3 工程化落地
 
-[《Python 算法交易》学习笔记](content/30-编程与实战/学习笔记%20-《Python-算法交易》-Cpv4djLF.md) · 连载中
+[《Python 算法交易》学习笔记](content/30-编程与实战/学习笔记%20-《Python-算法交易》-Cpv4djLF.md) · 已完成
 
 [配套代码目录](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/)收录 32 个主目录 Notebook 和 12 个 Python 模块，涉及数据处理、向量化与事件驱动回测、预测模型和交易接口。
 
@@ -151,12 +151,15 @@
 
 ## 7. 机器学习与深度学习基础
 
-这机器学习与深度学习的入门根基，前人之述备矣，好书好文不胜枚举，我便不在此班门弄斧了，仅附上几部自己心仪的经典链接，愿与诸君共同研读。
+机器学习与深度学习的入门根基，前人之述备矣，好书好文不胜枚举，我便不在此班门弄斧了，仅附上几部自己心仪的经典链接，愿与诸君共同研读。
 
-- 《机器学习》（西瓜书）：教材阅读与学习笔记
-- PyTorch 深度学习实战
-- 深度学习书集
+- [机器学习西瓜书（自己看）](https://github.com/lyhhhhhhhhhhh/awesome-machine-learning-1/blob/master/Machine-Learning%20%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E8%A5%BF%E7%93%9C%E4%B9%A6%EF%BC%89%E3%80%8B_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)
 
+- [机器学习西瓜书 - 学习笔记（自己看）](https://github.com/Vay-keen/Machine-learning-learning-notes)
+
+- [Pytorch 深度学习实战（自己看）](https://github.com/GISWLH/DataScience-master/blob/main/books/%E3%80%8Apytorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E3%80%8B%E4%B8%AD%E6%96%87PDF+%E4%BC%8A%E8%8E%B1.pdf)
+
+- [深度学习书集（自己看）](https://github.com/GISWLH/DataScience-master/tree/main/books)
 
 ## 8. 附录
 
