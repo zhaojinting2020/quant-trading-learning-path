@@ -21,8 +21,12 @@
 ## 1. 量化 road map
 
 [Quant Wiki 中文量化百科](https://quant-wiki.com/)提供量化领域的整体知识地图，适合查阅概念、了解研究方向和补充学习资源。
+<img width="1280" height="981" alt="image" src="https://github.com/user-attachments/assets/3b164930-175a-4161-8856-454226ce50d0" />
 
-下面按「入门、金融、数学、编程、实战、机器学习」组织我的学习材料。**已完成、连载中**沿用个人学习进度；本仓库尚未收录的正文或资源会另行标注。
+
+下面按 “入门、金融、数学、编程、实战、机器学习” 组织我的学习材料。
+
+**已完成、连载中**沿用个人学习进度；本仓库尚未收录的正文或资源会另行标注。
 
 ## 2. 量化交易入门
 
@@ -165,30 +169,14 @@
 
 ### 更多财经书籍与杂志
 
-- 财经相关书籍：随阅读补充
 - [财经与经济学人阅读记录](content/50-杂志期刊/)
-- [量化面试概率进阶题](content/20-数学基础/学习笔记%20-%20量化面试概率进阶题（基础笔记超纲题）.md)
 
-## 直接看代码
-
-代码目前与对应书籍的附件放在一起。下面提供直接入口，方便跳过附件目录查找。
-
-| 问题 / 实验 | Notebook / 源码 |
-| --- | --- |
-| 均线策略如何向量化回测？ | [均线策略](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Strategies%20Based%20on%20Simple%20Moving%20Averages.ipynb) · [SMAVectorBacktester.py](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/SMAVectorBacktester.py) |
-| 向量化回测与事件驱动回测有什么区别？ | [两种回测方式对照](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/vector_vs_eventBased_backtest.ipynb) |
-| 怎么把 Kelly 仓位公式变成实验？ | [Kelly 资金管理](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Capital_Management_Kelly.ipynb) · [财富路径模拟](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/Kelly_Paths.ipynb) |
-| 回测里怎么识别前视偏差？ | [AkShare 前视偏差示例](attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Lookahead-bias-akshare-demo.ipynb) |
-| 配对交易如何落到数据和回测上？ | [GLD–GDX 配对交易](attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/GLD%E2%80%93GDX%20配对交易.ipynb) |
-| 如何识别市场状态？ | [Market regime detection](attachments/量化交易-如何建立自己的算法交易事业学习笔记-FUANdgmFMo3KBlx7W4acZiHyntc/code/Market%20regime%20detection.ipynb) |
-| 怎么把书中的交易接口思路迁移到国内期货？ | [天勤 TqSdk 期货算法交易](attachments/Python-算法交易学习笔记-Cpv4djLFwoWd2CxiXgsc4laSn2f/code/天勤TqSdk期货算法交易.ipynb) |
-| 股票收益率的协方差矩阵怎么构造？ | [五只股票的样本协方差矩阵](attachments/量化必备-线代基础-NQrUdhPPaoTB2fx52XucbNQ2n1L/code/1.1.2-五只股票的样本协方差矩阵.ipynb) |
 
 ## 本地阅读与运行
 
-**只看笔记：** 在 GitHub 点击以上链接即可。部分正文使用 Obsidian 双链和嵌入语法，在 Obsidian 中阅读能获得更完整的跳转与配图体验。
+部分正文使用 Obsidian 双链和嵌入语法，在 Obsidian 中阅读能获得更完整的跳转与配图体验。
 
-**在 Obsidian 阅读：** 安装 [Git LFS](https://git-lfs.com/)，克隆仓库后，把仓库根目录作为 vault 打开。
+安装 [Git LFS](https://git-lfs.com/)，克隆仓库后，把仓库根目录作为 vault 打开。
 
 ```bash
 git lfs install
@@ -196,10 +184,6 @@ git clone https://github.com/zhaojinting2020/quant-trading-learning-path.git
 cd quant-trading-learning-path
 git lfs pull
 ```
-
-**运行代码：** 建议为所选书籍创建独立 Python 环境，从对应 `code/` 目录启动 Jupyter。各实验涉及的依赖、数据与接口不同；部分示例需要自行获取行情数据或配置账户。运行前先阅读 Notebook 的说明和代码，交易接口示例需核对账户与运行模式。
-
-目录中的 `requirements.txt` 如有提供，可作为对应材料的环境参考；它不代表全仓库已经在统一环境中验证。
 
 ## 仓库结构
 
