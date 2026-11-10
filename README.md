@@ -161,13 +161,6 @@
 
 - [深度学习书集（自己看）](https://github.com/GISWLH/DataScience-master/tree/main/books)
 
-## 8. 附录
-
-### 更多财经书籍与杂志
-
-- [财经与经济学人阅读记录](content/50-杂志期刊/)
-
-
 ## 本地阅读与运行
 
 部分正文使用 Obsidian 双链和嵌入语法，在 Obsidian 中阅读能获得更完整的跳转与配图体验。
@@ -180,25 +173,3 @@ git clone https://github.com/zhaojinting2020/quant-trading-learning-path.git
 cd quant-trading-learning-path
 git lfs pull
 ```
-
-## 仓库结构
-
-```text
-content/
-├── 10-金融基础/          # 术语、量化框架、财务分析
-├── 20-数学基础/          # 概率统计、线代、面试概率题
-├── 30-编程与实战/        # 书籍笔记、策略实践、Kelly 专题
-├── 40-面试/              # 预留专题目录
-└── 50-杂志期刊/          # 财经与经济学人阅读记录
-attachments/
-├── <书籍或专题>/code/    # Jupyter Notebook 与 Python 源码
-└── ...                   # 配图及参考附件，由 Git LFS 管理
-```
-
-## 持续更新
-
-这里记录的是一条仍在推进的学习路线。后续会继续补充读书笔记、代码实验，以及复现过程中遇到的问题和修正。
-
-如果你也在读同一本书，欢迎通过 Issue 交流推导、指出代码问题，或分享不同的实现。希望这些记录能帮你更快找到下一步值得动手的问题。
-
-学习笔记与策略示例仅用于研究，不构成投资建议。书籍、引用材料和第三方代码的权利归原权利人所有。
