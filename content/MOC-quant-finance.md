@@ -69,3 +69,8 @@ custom-width: 85
 - [怎么做期货](https://zhuanlan.zhihu.com/p/134515556)
 - [智能研报分析平台](https://manymore13.github.io/report/)
 - [量化交易零基础入门教程](https://www.joinquant.com/view/community/detail/8ec7aaaa899cf928550f89a104637f22)
+
+## 量化面试
+
+- [[学习笔记 - Quant面试问题清单|Quant 面试问题清单]]（44 道概率统计题及完整解答）
+- [[学习笔记 - 量化面试概率进阶题（基础笔记超纲题）|量化面试概率进阶题]]
